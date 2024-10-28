@@ -1,0 +1,14 @@
+fastapi
+gradio
+gradio_client
+keras
+matplotlib
+nltk
+numpy
+pandas
+scikit-learn
+tensorboard==2.16.0
+tensorflow==2.16.2
+torch==2.2.2
+uvicorn==0.32.0
+
